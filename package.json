@@ -1,5 +1,5 @@
 {
-  "name": "awesome-downloader",
+  "name": "qadeer-download-manager-",
   "version": "0.1.2",
   "description": "A Windows download manager with segmented transfers and browser video capture",
   "main": "desktop/main.cjs",
@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/Ahmadkhattak1/awesome-downloader/issues"
   },
-  "author": "Awesome Downloader contributors",
+  "author": "qadeer-download-manager",
   "license": "MIT",
   "scripts": {
     "start": "electron .",
